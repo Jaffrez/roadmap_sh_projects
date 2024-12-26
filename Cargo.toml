@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"number_guess_game",
+	"task_tracker",
+]
+resolver = "2"
